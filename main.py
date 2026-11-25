@@ -7,6 +7,7 @@ on every run.
 """
 import os
 
+# The entry is one fixed line of robot small talk; the output is deterministic.
 TEXT = "My grip sensor says I have held this handrail for six floors, four floors longer than any conversation I have ever had."
 
 
